@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+.env
+
+data/*.gz
+data/*.zip
+data/*.csv
+
+.DS_Store
+Thumbs.db
+
+
+notebooks/try_again.ipynb
